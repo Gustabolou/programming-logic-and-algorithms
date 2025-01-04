@@ -1,5 +1,3 @@
-const prompt = require('prompt-sync')();
-
 function calculateLand() {
     let width = parseFloat(prompt("Enter the width of the land: "));
     let length = parseFloat(prompt("Enter the length of the land: "));

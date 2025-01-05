@@ -7,5 +7,5 @@ function sum() {
     console.log(`The sum of ${x} and ${y} is: ${sum.toFixed(1)}`);
   }
   
-cd  sum();
+sum();
   

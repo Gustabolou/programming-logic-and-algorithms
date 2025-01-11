@@ -12,7 +12,7 @@ function grades() {
         result = "Passed, great job!";
     }
     
-    console.log(`In semesters 1 and 2, you scored ${grade1} and ${grade2}.`);
+    console.log(`In semesters 1 and 2, you scored ${gradeOne} and ${gradeTwo}.`);
     console.log(`Your final average is ${average}.`);
     console.log(`You have ${result}!`);
 }

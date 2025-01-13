@@ -1,4 +1,4 @@
-function verifiedChange() {
+ConvolverNodefunction verifiedChange() {
     let productPrice = parseFloat(prompt("Unit price of the product: "));
     let quantity = parseInt(prompt("Quantity purchased: "));
     let payment = parseFloat(prompt("Payment amount: "));
